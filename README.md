@@ -53,7 +53,7 @@ cd simon-says-game
 Open index.html in your browser to play the game.
 
 👨‍💻 Author
-Your Name – Your GitHub
+Sumit Mishra – suBmit52
 
 📜 License
 This project is licensed under the MIT License.
