@@ -23,9 +23,6 @@ A fun, colorful, and memory-boosting browser game built using **HTML**, **CSS**,
 
  SimonSaysGame/ ┣ 📄 index.html # The main HTML structure ┣ 📄 style.css # Styling for the game ┗ 📄 game.js # JavaScript logic for game play
 
-markdown
-Copy
-Edit
 
 ## 🖼️ Preview
 
